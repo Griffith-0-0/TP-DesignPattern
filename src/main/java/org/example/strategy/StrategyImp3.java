@@ -1,4 +1,4 @@
-package org.example;
+package org.example.strategy;
 
 public class StrategyImp3 implements Strategy {
     @Override
